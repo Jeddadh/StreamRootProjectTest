@@ -1,5 +1,8 @@
 # Report : Streamroot Test
-
+The repo contains:
+-	data_analysis.py : by executing this file you obtain different tables used in this document
+-	data_visualisation : by executing this file you obtain different data vizualisation used in this document
+-    report.pdf : this readme file in pdf format
 
 ## I.	Tech choices & Installation requirements :
 
