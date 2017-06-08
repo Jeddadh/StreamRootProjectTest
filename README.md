@@ -18,9 +18,9 @@ o	Python has other advanced libraries to do mathematical and statistical calculu
 
 ### Installation Requirements:
 
-Install Python3
-Install pandas (you can use pip3 install panda in the command line)
-Install matplotlib (if it is not already installed with python3)
+     Install Python3
+     Install pandas (you can use pip3 install panda in the command line)
+     Install matplotlib (if it is not already installed with python3)
 
 
 ## II.	Method & data analysis
